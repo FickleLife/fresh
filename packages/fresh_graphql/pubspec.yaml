@@ -11,7 +11,7 @@ environment:
 
 dependencies:
   fresh: ^0.3.0
-  graphql: ^3.0.2
+  graphql: ^4.0.0-beta.3
   http: ^0.12.1
   meta: ^1.1.8
   pedantic: ^1.9.0
